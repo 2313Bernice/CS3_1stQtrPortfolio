@@ -1,4 +1,4 @@
-let age = prompt("Enter your age: ", 1);
+/*let age = prompt("Enter your age: ", 1);
 let maxAge = prompt("You will live until the ripe old age of: ", 100);
 let numPerDay = prompt("Number of snacks you eat daily: ", 1 ); 
 
@@ -10,5 +10,5 @@ if(sure){
 }
 else{
     window.alert("Why would you leave :(...the answer was a click away!");
-}
+}*/
 

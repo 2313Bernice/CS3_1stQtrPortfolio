@@ -1,3 +1,45 @@
+<html>
+<body>
+
+    <h1> Time to eat a snack! </h1>
+
+    <label> How old are you? 
+        <input id="age" />
+    </label> </br/>
+
+    <label> How long do you plan to live? 
+        <input id="maxAge" />
+    </label> </br/>
+
+    <label> How many snacks do you eat in a day? 
+        <input id="numPerDay" />
+    </label> </br/>
+
+    <button onclick= "reveal()" > Figure out now! </button>
+
+    <p> Result: 
+        <span id="resultHere"></span>
+    </p>
+
+   
+   
+    <script>
+      function reveal(){
+
+        let ag = document.getElementById("age").value;
+        let maxAg = document.getElementById("maxAge").value;
+        let num = document.getElementById("numPerDay").value;
+        let dInput4 = (num*365)*(maxAg-ag);
+
+        document.getElementById("resultHere").innerHTML = `You will need ${dInput4} cups of coffee to last you until the ripe old age of ${maxAg}`;
+      }
+
+    </script>
+
+</body>
+</html>
+
 <script src="script.js"> 
 
 </script>
+
