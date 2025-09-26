@@ -21,7 +21,7 @@
 
 3. **While loops**: I know the basic structure as well as the concept of while loops, I just don't use it as often as I use for loops. Because of this, I have more confusion when it comes to conceptualizing codes that involve the use of while loops. Overall, I need more practice on using while loops as there might be times where this type of loop structure is more appropriate than for loops.
 
-4. **Do-while loops**: I know the concepts of do-while loops, but I have difficulty when it comes to remembering its structure and practically applying it when coding. I barely used do-while loops during C++ last year, and I rarely use it now in JavaScript 🙂‍↔️. While coding exercises usually involve for loops or while loops, there will be cases where do-while loops are more appropriate. Therefore, I really have to familiarize myself with this type of loop statement.
+4. **Do-while loops**: I know the concepts of do-while loops, but I have difficulty when it comes to remembering its structure and practically applying it when coding. I barely used do-while loops during C++ last year, and I rarely use it now in JavaScript 🥹. While coding exercises usually involve for loops or while loops, there will be cases where do-while loops are more appropriate. Therefore, I really have to familiarize myself with this type of loop statement.
 
 5. **Switch statements**: The topic was relatively easy to understand due to our formal lecture as well as the provided learnings guides. Not to mention, switch statements were also discussed and used in C++ last year. I just need more practice on this topic in order to be more familiarized with its structure and its uses.
 
